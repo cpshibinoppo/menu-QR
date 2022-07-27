@@ -11,3 +11,17 @@
     background-position: center;
     background-size: cover;
 }
+.nav{
+    justify-content: space-between;
+}
+.navsection1 button,.navsection2 button{
+    background-color: rgb(111, 78, 55);
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 30%) 0px 2.5px 4px;
+}
+.navsection1 button i,.navsection2 button i{
+    font-size: 30px;
+}
