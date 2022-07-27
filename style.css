@@ -25,3 +25,17 @@
 .navsection1 button i,.navsection2 button i{
     font-size: 30px;
 }
+.logomaindiv{
+    text-align: -webkit-center;
+}
+.logo{
+    background: rgba(0, 0, 0, 0.5);
+    text-align: center;
+    width: 350px;
+    height: 260px;
+    border-radius: 50%;
+}
+.logo img{
+    width: 350px;
+    padding-top: 11px;
+}
