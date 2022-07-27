@@ -52,3 +52,25 @@
     font-size: 19px;
     font-weight: 600;
 }
+.manubtn:hover{
+    color: #fff;
+}
+.socialbtndiv{
+    padding-top: .5rem;
+}
+.socialbtndiv button{
+    background-color: rgb(111, 78, 55);
+    color: #fff;
+    padding: 5px 5px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: rgb(0 0 0 / 30%) 0px 2.5px 4px;
+}
+.footer{
+    position: absolute;
+    bottom: 0;
+    right: 26%;
+}
+.footer img{
+    width: 200px;
+}
