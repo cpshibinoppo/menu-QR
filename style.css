@@ -47,7 +47,7 @@
     text-decoration: none;
     color: #fff;
     background-color: rgb(111, 78, 55);
-    padding: 7px 35px;
+    padding: 7px 50px;
     border-radius: 100px;
     font-size: 19px;
     font-weight: 600;
@@ -56,13 +56,14 @@
     color: #fff;
 }
 .socialbtndiv{
-    padding-top: .5rem;
+    padding-top: 1rem;
 }
 .socialbtndiv button{
     background-color: rgb(111, 78, 55);
     color: #fff;
-    padding: 5px 5px;
+    padding: 3px 12px;
     border: none;
+    font-size: 25px;
     border-radius: 10px;
     box-shadow: rgb(0 0 0 / 30%) 0px 2.5px 4px;
 }
